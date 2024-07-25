@@ -1,6 +1,6 @@
 {
-  "name": "@luxfi/eth-gnosis-keyring",
-  "version": "0.0.2",
+  "name": "@luxwallet/eth-gnosis-keyring",
+  "version": "1.8.11",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc"
