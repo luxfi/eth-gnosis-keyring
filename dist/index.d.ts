@@ -1,6 +1,6 @@
 /// <reference types="node" />
 import { EventEmitter } from "events";
-import Safe from "@lux-wallet/gnosis-sdk";
+import Safe from "@luxwallet/gnosis-sdk";
 import { SafeTransaction } from "@gnosis.pm/safe-core-sdk-types";
 export declare const keyringType = "Gnosis";
 export declare const TransactionBuiltEvent = "TransactionBuilt";
